@@ -2,7 +2,7 @@ username = input("Enter username: ")
 password = input("Enter password: ")
 
 
-print("Your account has een created successfully!")
+print("Your account has been created successfully!")
 print("Login Now")
 
 
